@@ -1,0 +1,94 @@
+Vincent's work log on the KLM internship test assignment
+
+
+day 1: 2021-12-16
+
+1730 - 1745
+installed the project's Unity editor version
+
+1745 - 1800
+read and took notes on the assignment description;
+set up the checklist 
+
+1845 - 1930
+assembled terrain, prefabs and objects for the level
+
+1930 - 2000
+added and configured colliders, baked NavMesh
+
+
+day 2: 2021-12-17
+
+0715 - 0815
+set up navigation agent + script
+
+0815 - 0845
+set up scriptable airplane objects
+
+0900 - 0915
+airplane lighting setup
+
+1015 - 1100
+airplane lighting controller script
+
+2115 - 2145
+random airplane movement
+
+2200 - 2300
+numbering and labeling aircraft and hangars using GameManager
+
+2300 - 2315
+daylight cycle
+
+
+day 3: 2021-12-18
+
+1500 - 1600
+linking airplanes and hangars, parking and unparking functions
+
+1600 - 1630
+lighting functions
+
+1630 - 1645
+UI buttons
+
+1645 - 1715
+parking status indication
+
+
+day 4: 2021-12-19
+
+1215 - 1230
+UI improvements
+
+1230 - 1445
+camera controls
+
+
+Checklist:
+
+- Follow the steps in the assignment description.
+
+Must-Have:
+- The playable area is outlined with fences.
+- Planes move 2-dimensionally.
+- There is one hangar per plane.
+- Park button, that makes all planes return to their hangar.
+- Lights button to toggle airplane lights.
+
+Should have:
+- Unity events
+- Scriptable objects
+- NavMeshAgent
+- changes to Prefabs
+
+Bonus:
+- own twist (camera controls, terrain + navigation lights)
+
+When done:
+- record a video of the project and make a link to it
+- publish it to GitHub
+- email the video link and the GitHub link back 
+
+Not important:
+- collisions
